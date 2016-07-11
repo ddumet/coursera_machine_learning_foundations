@@ -5,4 +5,5 @@ data/
 .ipynb_checkpoints
 
 # Quizz file
-# predicting_house_prices_withQuizz_answers.ipynb
+predicting_house_prices_withQuizz_answers.ipynb
+analysing_sentiment_withQuizz_answers.ipynb
